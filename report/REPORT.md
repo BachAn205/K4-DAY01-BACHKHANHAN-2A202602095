@@ -10,7 +10,7 @@
 
 **Thay đổi so với notebook nguồn:** Không (sử dụng luồng chuẩn và thông số mặc định của bài thực hành)
 
-> ZIP do notebook tạo có tên `KX-DAY01-report.zip`. Giải nén rồi đặt trực tiếp `REPORT.md` và
+> ZIP do notebook tạo có tên `K4-DAY01-report.zip`. Giải nén rồi đặt trực tiếp `REPORT.md` và
 > `day1_lab_outputs/` vào thư mục `report/` của repository tạo từ template. Không ghi họ tên, MSSV,
 > email, số điện thoại hoặc dữ liệu cá nhân khác. Nộp link repository trên VLearn; tài khoản VLearn xác
 > định người nộp.
